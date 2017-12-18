@@ -1,0 +1,7 @@
+minetest.register_alias("streets:asphalt","rainbow:coral_black")
+minetest.register_alias("streets:asphalt_dashed_line","rainbow:coral_black")
+minetest.register_alias("streets:asphalt_outer_edge","rainbow:coral_black")
+minetest.register_alias("streets:asphalt_parking","rainbow:coral_black")
+minetest.register_alias("streets:asphalt_sideline","rainbow:coral_black")
+minetest.register_alias("streets:asphalt_solid_line","rainbow:coral_black")
+minetest.register_alias("streets:stair_asphalt","rainbow:stair_coral_black")
